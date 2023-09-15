@@ -31,7 +31,7 @@ I have a number of extensions installed to help me do my work. Most of these ext
 
 ### FAQs
 
-- I sometimes get asked why I don't have any Git-related extensions installed. The simple answer is because I don't do anything with Git via a GUI. I've not found any Git extensions that work for me. I just do it old-school on the CLI. :smiling_face_with_sunglasses:
+- I sometimes get asked why I don't have any Git-related extensions installed. The simple answer is because I don't do anything with Git via a GUI. I've not found any Git extensions that work for me. I just do it old-school on the CLI. 😎
 
 
 </details>
