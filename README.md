@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbiqbe
-- 👀 I’m interested in cloud security, Azure, and [Reformed Theology]().
-- 🌱 I’m currently learning Hebrew via DuoLingo.
+- 👀 I’m interested in cloud security, Azure, and [Reformed Theology](https://heidelblog.net/).
+- 🌱 I’m currently learning [Hebrew via DuoLingo](https://www.duolingo.com/profile/SpencerBar).
 - 📫 Reach out to me on MSFT Teams!
 
 <details>
