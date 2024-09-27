@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbiqbe
 - 👀 I’m interested in cloud security, Azure, and [Reformed Theology](https://heidelblog.net/).
-- 🌱 I’m currently learning [Hebrew via DuoLingo](https://www.duolingo.com/profile/SpencerBar).
+- 🌱 I read a lot of different things! See what I read [here](https://www.goodreads.com/user/show/29726665-spencer).
 - 📫 Reach out to me on MSFT Teams!
 
 <details>
@@ -20,9 +20,10 @@ I have a number of extensions installed to help me do my work. Most of these ext
 
 ### Misc
 
-- [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) - This handles authentication into Azure and lets you integrate a cloud shell right into VS Code.
+- [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) - This handles authentication into Azure and lets you integrate a cloud shell right inside VS Code.
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Sometimes I need to have multiple VS Code windows open at the same time. Peacock helps keep which window is which by adding a color bar to VS Code. Click the link to see an example.
 - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - I run the Windows Subsystem for Linux (WSL) since my Windows laptop is pretty well locked-down. You'll want this extension to be able to integrate the terminal into WSL.
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - There are times when I need to take screenshots of my code (mostly to submit for CHG tickets). CodeSnap saves the day!
 
 ### Themes
 
